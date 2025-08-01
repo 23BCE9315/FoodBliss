@@ -115,10 +115,10 @@ Open public/index.html in your browser
 
 
 <img width="1914" height="960" alt="HomePage" src="https://github.com/user-attachments/assets/93deb305-d5f6-464a-87bf-26d6c8a7bb23" />
-
-
 <img width="1906" height="968" alt="Admin_Dashboard" src="https://github.com/user-attachments/assets/1d44c643-0730-417a-8458-67e83c9ae7f6" />
-
+<img width="1897" height="963" alt="Screenshot 2025-08-01 221433" src="https://github.com/user-attachments/assets/7951c54a-7b63-45f5-a416-fff210fbc896" />
+<img width="1910" height="918" alt="Screenshot 2025-08-01 221528" src="https://github.com/user-attachments/assets/ec857d68-ccf0-4de4-9add-257b10828648" />
+<img width="1919" height="918" alt="Screenshot 2025-08-01 221623" src="https://github.com/user-attachments/assets/1bee7208-ef37-47a3-a58a-2b5ef4627167" />
 
 
 ---
